@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">20230911-ArtemAndroschuk-NYCShools</string>
+    <string name="schools_of_new_york_city">Schools of New York City</string>
+    <string name="zip">Zip: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="phone_number">Phone Number: %1$s</string>
+    <string name="people_wrote_test">People Wrote Test: %1$s</string>
+    <string name="writing_average_score">Writing Average Score: %1$s</string>
+    <string name="reading_average_score">Reading Average Score: %1$s</string>
+    <string name="math_average_score">Math Average Score: %1$s</string>
+</resources>
